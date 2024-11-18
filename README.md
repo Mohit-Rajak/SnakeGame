@@ -1,4 +1,4 @@
-Snake Game - A Classic Browser-Based Game
+# Snake Game - A Classic Browser-Based Game
 Overview:
 
 The Snake Game is a well-known, retro arcade game where the player controls a snake that continuously moves around the screen, collecting food and growing in length. The objective is to eat as much food as possible without running into walls or the snake’s own tail. Over time, the snake becomes longer and the game becomes increasingly challenging.
